@@ -1,0 +1,16 @@
+D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHosting.Services\bin\Release\netstandard2.0\VideoHosting.Services.deps.json
+D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHosting.Services\bin\Release\netstandard2.0\VideoHosting.Services.dll
+D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHosting.Services\bin\Release\netstandard2.0\VideoHosting.Services.pdb
+D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHosting.Services\bin\Release\netstandard2.0\VideoHosting.Abstractions.dll
+D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHosting.Services\bin\Release\netstandard2.0\VideoHosting.Domain.dll
+D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHosting.Services\bin\Release\netstandard2.0\VideoHosting.Utilities.dll
+D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHosting.Services\bin\Release\netstandard2.0\VideoHosting.Abstractions.pdb
+D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHosting.Services\bin\Release\netstandard2.0\VideoHosting.Utilities.pdb
+D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHosting.Services\bin\Release\netstandard2.0\VideoHosting.Domain.pdb
+D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHosting.Services\obj\Release\netstandard2.0\VideoHosting.Services.csprojAssemblyReference.cache
+D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHosting.Services\obj\Release\netstandard2.0\VideoHosting.Services.csproj.CoreCompileInputs.cache
+D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHosting.Services\obj\Release\netstandard2.0\VideoHosting.Services.AssemblyInfoInputs.cache
+D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHosting.Services\obj\Release\netstandard2.0\VideoHosting.Services.AssemblyInfo.cs
+D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHosting.Services\obj\Release\netstandard2.0\VideoHosting.Services.csproj.CopyComplete
+D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHosting.Services\obj\Release\netstandard2.0\VideoHosting.Services.dll
+D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHosting.Services\obj\Release\netstandard2.0\VideoHosting.Services.pdb

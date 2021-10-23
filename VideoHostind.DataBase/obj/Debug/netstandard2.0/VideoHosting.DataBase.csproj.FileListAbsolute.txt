@@ -1,0 +1,14 @@
+D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHostind.DataBase\bin\Debug\netstandard2.0\VideoHosting.DataBase.deps.json
+D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHostind.DataBase\bin\Debug\netstandard2.0\VideoHosting.DataBase.dll
+D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHostind.DataBase\bin\Debug\netstandard2.0\VideoHosting.DataBase.pdb
+D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHostind.DataBase\bin\Debug\netstandard2.0\VideoHosting.Abstractions.dll
+D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHostind.DataBase\bin\Debug\netstandard2.0\VideoHosting.Domain.dll
+D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHostind.DataBase\bin\Debug\netstandard2.0\VideoHosting.Abstractions.pdb
+D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHostind.DataBase\bin\Debug\netstandard2.0\VideoHosting.Domain.pdb
+D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHostind.DataBase\obj\Debug\netstandard2.0\VideoHosting.DataBase.csprojAssemblyReference.cache
+D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHostind.DataBase\obj\Debug\netstandard2.0\VideoHosting.DataBase.csproj.CoreCompileInputs.cache
+D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHostind.DataBase\obj\Debug\netstandard2.0\VideoHosting.DataBase.AssemblyInfoInputs.cache
+D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHostind.DataBase\obj\Debug\netstandard2.0\VideoHosting.DataBase.AssemblyInfo.cs
+D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHostind.DataBase\obj\Debug\netstandard2.0\VideoHosting.DataBase.csproj.CopyComplete
+D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHostind.DataBase\obj\Debug\netstandard2.0\VideoHosting.DataBase.dll
+D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHostind.DataBase\obj\Debug\netstandard2.0\VideoHosting.DataBase.pdb
