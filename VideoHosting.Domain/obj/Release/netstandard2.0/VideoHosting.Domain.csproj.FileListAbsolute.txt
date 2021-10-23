@@ -1,9 +1,0 @@
-D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHosting.Domain\bin\Release\netstandard2.0\VideoHosting.Domain.deps.json
-D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHosting.Domain\bin\Release\netstandard2.0\VideoHosting.Domain.dll
-D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHosting.Domain\bin\Release\netstandard2.0\VideoHosting.Domain.pdb
-D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHosting.Domain\obj\Release\netstandard2.0\VideoHosting.Domain.csprojAssemblyReference.cache
-D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHosting.Domain\obj\Release\netstandard2.0\VideoHosting.Domain.csproj.CoreCompileInputs.cache
-D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHosting.Domain\obj\Release\netstandard2.0\VideoHosting.Domain.AssemblyInfoInputs.cache
-D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHosting.Domain\obj\Release\netstandard2.0\VideoHosting.Domain.AssemblyInfo.cs
-D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHosting.Domain\obj\Release\netstandard2.0\VideoHosting.Domain.dll
-D:\VideoHosting\VideoHosting.Core-master\VideoHosting.Core\VideoHosting.Domain\obj\Release\netstandard2.0\VideoHosting.Domain.pdb

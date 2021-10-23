@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <parameter name="IIS Web Application Name" description="" value="VideoHostingCore20211022071124" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\VideoHosting\\VideoHosting\.Core-master\\VideoHosting\.Core\\VideoHosting\.Core\\obj\\Release\\netcoreapp2\.2\\PubTmp\\Out\\$" />
-  </parameter>
-</parameters>
