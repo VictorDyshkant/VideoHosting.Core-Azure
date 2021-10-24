@@ -55,7 +55,7 @@ namespace VideoHosting.Services.Services
 
             foreach (var subscriber in user.Subscribers.Select(x => x.Subscripter))
             {
-                await GetUserById(subscriber.Id,id);
+                userDtos.Add(await GetUserById(subscriber.Id,id));
             }
 
             return userDtos;
@@ -66,9 +66,9 @@ namespace VideoHosting.Services.Services
             User user = await _unitOfWork.UserRepository.GetUserById(id);
             List<UserDto> userDtos = new List<UserDto>();
 
-            foreach (var subscripter in user.Subscriptions.Select(x => x.Subscripter))
+            foreach (var subscript in user.Subscriptions.Select(x => x.Subscripter))
             {
-                await GetUserById(subscripter.Id, id);
+                userDtos.Add(await GetUserById(subscript.Id, id));
             }
 
             return userDtos;
